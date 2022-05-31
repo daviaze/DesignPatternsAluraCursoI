@@ -1,0 +1,16 @@
+C:\desenvolvimento\CursoAlura\DesignPatternsCursoAlura\DesignPatternsCursoAlura\bin\Debug\net5.0\DesignPatternsCursoAlura.exe
+C:\desenvolvimento\CursoAlura\DesignPatternsCursoAlura\DesignPatternsCursoAlura\bin\Debug\net5.0\DesignPatternsCursoAlura.deps.json
+C:\desenvolvimento\CursoAlura\DesignPatternsCursoAlura\DesignPatternsCursoAlura\bin\Debug\net5.0\DesignPatternsCursoAlura.runtimeconfig.json
+C:\desenvolvimento\CursoAlura\DesignPatternsCursoAlura\DesignPatternsCursoAlura\bin\Debug\net5.0\DesignPatternsCursoAlura.runtimeconfig.dev.json
+C:\desenvolvimento\CursoAlura\DesignPatternsCursoAlura\DesignPatternsCursoAlura\bin\Debug\net5.0\DesignPatternsCursoAlura.dll
+C:\desenvolvimento\CursoAlura\DesignPatternsCursoAlura\DesignPatternsCursoAlura\bin\Debug\net5.0\ref\DesignPatternsCursoAlura.dll
+C:\desenvolvimento\CursoAlura\DesignPatternsCursoAlura\DesignPatternsCursoAlura\bin\Debug\net5.0\DesignPatternsCursoAlura.pdb
+C:\desenvolvimento\CursoAlura\DesignPatternsCursoAlura\DesignPatternsCursoAlura\obj\Debug\net5.0\DesignPatternsCursoAlura.csproj.AssemblyReference.cache
+C:\desenvolvimento\CursoAlura\DesignPatternsCursoAlura\DesignPatternsCursoAlura\obj\Debug\net5.0\DesignPatternsCursoAlura.GeneratedMSBuildEditorConfig.editorconfig
+C:\desenvolvimento\CursoAlura\DesignPatternsCursoAlura\DesignPatternsCursoAlura\obj\Debug\net5.0\DesignPatternsCursoAlura.AssemblyInfoInputs.cache
+C:\desenvolvimento\CursoAlura\DesignPatternsCursoAlura\DesignPatternsCursoAlura\obj\Debug\net5.0\DesignPatternsCursoAlura.AssemblyInfo.cs
+C:\desenvolvimento\CursoAlura\DesignPatternsCursoAlura\DesignPatternsCursoAlura\obj\Debug\net5.0\DesignPatternsCursoAlura.csproj.CoreCompileInputs.cache
+C:\desenvolvimento\CursoAlura\DesignPatternsCursoAlura\DesignPatternsCursoAlura\obj\Debug\net5.0\DesignPatternsCursoAlura.dll
+C:\desenvolvimento\CursoAlura\DesignPatternsCursoAlura\DesignPatternsCursoAlura\obj\Debug\net5.0\ref\DesignPatternsCursoAlura.dll
+C:\desenvolvimento\CursoAlura\DesignPatternsCursoAlura\DesignPatternsCursoAlura\obj\Debug\net5.0\DesignPatternsCursoAlura.pdb
+C:\desenvolvimento\CursoAlura\DesignPatternsCursoAlura\DesignPatternsCursoAlura\obj\Debug\net5.0\DesignPatternsCursoAlura.genruntimeconfig.cache

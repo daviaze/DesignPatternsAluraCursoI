@@ -1,0 +1,21 @@
+﻿Strategy -> Utilizado para tornar métodos flexíveis, encapsulando as classes (tipos) com as interfaces,
+possibilitando escolher de que forma o método irá trabalhar em tempo de execução, assim acabando com o
+uso excessivo de vários "ifs";
+
+Chain Of Responsability -> Utilizado para encadear comportamentos, fazendo com que uma solicitação passe
+por vários métodos em cadeia, até que um o satisfaça, caso o mesmo não satisfaça, o método chamará o
+próximo, e assim sucessivamente, até que chegue no final da cadeia.
+
+Decorator -> Utilizado para passar uma classe dentro de um objeto de sua mesma natureza, assim encadeando objetos.
+
+Template Method -> Utilizado para montar estruturas genéricas, para que seja evitada repetições,
+podendo conter métodos, validações, e propriedades.
+
+State -> Utilizado para manipular estados de objetos, quebrando os possíveis estados em pequenas classes,
+suprimindo-os através de uma interface ou classe abstrata que contém métodos em comum.
+
+Builder -> Utilizado para facilitar a montagem de objetos complexos, quebrando o que seria um grande construtor,
+em que pequenos métodos que setam esses valores, deixando o código mais legível e de fácil entendimento.
+
+Observer -> Utilizado para enviar notificações de uma classe para outras, assim que seu estado muda,
+muito utilizado em cenários com objetos interligados e relacionados, mantendo o fraco acoplamento e a fácil manutenção.
